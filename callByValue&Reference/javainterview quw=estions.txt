@@ -1,0 +1,130 @@
+What is the most important feature of Java?
+Explain platform independence
+What is a JVM?
+Are JVMs platform independent?
+Differentiate between a JDK and a JVM?
+What is a pointer? Does Java support pointers?
+Name the base class of all classes
+Is multiple inheritance supported by Java?
+Is Java a purely object oriented language?
+What are primitive data types in Arrays?
+What is the difference between a Path and a Classpath?
+What are local variables?
+What are instance variables?
+In Java, how is a constant variable defined?
+Is it compulsory to use a main() method in all java classes?
+What is the return type of the main() method?
+What is the reason behind declaring the main() method static?
+What is the argument of main() method?
+Can we overload a main() method?
+Can we declare a main() method final?
+Does the order of public and static declaration matter in main() method?
+Can a source file contain more than one class declaration?
+What is a package?
+Which package is imported by default?
+Can a class that has been declared as private be accessed outside its package?
+Can a class be declared as protected?
+Elaborate the access scope of a protected method?
+Elaborate the purpose of declaring a variable as final?
+Explain impact of declaring a method as final?
+If we do not want our class to be inherited by any other class what should we do?
+Can you give few examples of final classes defined in Java API?
+Differentiate final from finally and finalize()?
+Can we declare a class as static?
+When can a method be defined as static?
+What are the restrictions imposed on a static method or a static block of code?
+If you want to to print "Hello" even before main() is executed, how will you achieve that?
+Explain the significance of static variable?
+Can a static variable be declared inside a method?
+What is an Abstract Class and what is its purpose?
+Can an abstract class be declared final?
+What is the use of an abstract variable?
+Can you create an object of an abstract class?
+Can an abstract class be defined without any abstract methods?
+Class C implements Interface I containing method m1 and m2 declarations. Class C has provided implementation for method m2. Can i create an object of Class C?
+Can a method inside an Interface be declared as final?
+Can an Interface implement another Interface?
+Can an Interface extend another Interface?
+Can a Class extend more than one Class?
+Why an Interface is able to extend more than one Interface but a Class cannot extend more than one Class?
+Can an Interface be final?
+Can a class be defined inside an Interface?
+Can an Interface be defined inside a class?
+What is a Marker Interface?
+Overloading and Overriding achieve which all object oriented concepts?
+Why is operator overloading not supported by JAVA?
+Can private and protected modifiers be defined for variables in interfaces?
+What is Externalizable?
+What are the modifiers allowed for methods in an Interface?
+What is a local, member and a class variable?
+What is an abstract method?
+What value does read() return when it reaches the end of a file?
+Can you cast a Byte object to a double value?
+Differentiate between a static and a non-static inner class?
+What is an object's lock and which objects have locks?
+What is the % operator?
+When can an object reference be cast to an interface reference?
+Which class is extended by all other classes?
+Which non-Unicode letter characters may be used as the first character of an identifier?
+What are the restrictions placed on method overloading?
+What is casting?
+What is the return type of a program's main() method?
+Where can the variable be accessed when it is declared as private?
+What do you understand by private, protected and public?
+Explain Downcasting.
+What modifiers may be used with an inner class that is a member of an outer class?
+How many bits are used to represent Unicode, ASCII, UTF-16, and UTF-8 characters?
+What are the restrictions placed on the location of a package statement within a source code file?
+What is a native method?
+What are order of precedence and associativity and how are they used?
+Can an anonymous class be declared as implementing an interface and extending a class?
+What is the range of the char type?
+What is the range of the short type?
+Why doesn't operator overloading exist?
+What does it mean when we say that a method or field is "static"?
+Is null a keyword?
+Which characters may be used as the second but not as the first character of an identifier?
+Is the ternary operator written x : y ? z or x ? y : z ?
+How is rounding performed under integer division?
+If a class is declared without any access modifiers, where may the class be accessed?
+Does a class inherit the constructors of its superclass?
+Name the eight primitive Java types.
+What are the restrictions that are placed on the values of each case of a switch statement?
+Differentiate between a while statement and a do while statement?
+What all modifiers can be used with a local inner class?
+When does the compiler supply a default constructor for a class?
+Where may a method be accessed if it is declared as protected?
+Elaborate the legal operands of the instance of operator?
+Are true and false keywords?
+What happens when you add a double value to a String?
+Differentiate between inner class and nested class.
+Can an abstract class be final?
+What is numeric promotion?
+Differentiate between a public and a non-public class?
+To what value is a variable of the boolean type automatically initialized?
+Differentiate between the prefix and postfix forms of the ++ operator.
+What are the restrictions that are placed on method overriding?
+What is a Java package and how is it used?
+What modifiers may be used with a top-level class?
+Differentiate between an if statement and a switch statement?
+What are the practical benefits, if any, of importing a specific class rather than an entire package (e.g.
+import java.net.* versus import java.net.Socket)?
+Can we overload a method based on different return type but same argument type?
+What happens to a static variable that is defined within a method of a class?
+How many static initializers are there?
+Differentiate between method overriding and overloading?
+What is constructor chaining and how is it achieved in Java?
+What is the difference between the Boolean & operator and the && operator?
+Which Java operator is right associative?
+Can a double value be cast to a byte?
+What is the difference between a break statement and a continue statement?
+Can a for statement loop indefinitely?
+To what value is a variable of the String type automatically initialized?
+Differentiate between a field variable and a local variable.
+How are this() and super() used with constructors?
+What does it mean that a class or member is final?
+What does it mean that a method or class is abstract?
+What is a transient variable?
+How does Java handle integer overflows and underflows?
+What is the difference between the >> and >>> operators?
+Is size of a keyword?
